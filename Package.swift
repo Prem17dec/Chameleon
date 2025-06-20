@@ -12,7 +12,7 @@ let package = Package(
     targets: [
         .target(
             name: "Chameleon",
-            path: "ChameleonFramework/Chameleon",
+            path: "Chameleon",
             exclude: ["Info.plist"]
         )
     ],
